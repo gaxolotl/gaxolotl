@@ -1,0 +1,258 @@
+body {
+    background-color: #000 !important;
+}
+
+.content {
+    background-color: #000 !important;
+}
+
+.btn-primary-md {
+    background-color: #aaaaaac4 !important;
+}
+
+.linkable-button-content-container {
+    color: #f7f7f8 !important;
+}
+
+.container-fluid {
+    background-color: #000 !important;
+}
+
+.simplebar-content-wrapper {
+    background-color: #000 !important;
+}
+
+.container-main {
+    background-color: #000 !important;
+}
+
+ul {
+    background-color: #000 !important;
+}
+
+.rbx-divider {
+    background-color: #000 !important;
+}
+
+.section-content {
+    background-color: #000 !important;
+}
+
+.profile-avatar-mask {
+    background-color: #000 !important;
+}
+
+.col-sm-6 {
+    background-color: #000 !important;
+}
+
+.container-footer {
+    background-color: #000 !important;
+}
+
+.rbx-tab-heading {
+    background-color: #000 !important;
+}
+
+.rbx-left-col {
+    background-color: #000 !important;
+}
+
+.stack-row {
+    background-color: #000 !important;
+}
+
+.section-content-off {
+    background-color: #000 !important;
+}
+
+.membership-section {
+    background-color: #000 !important;
+}
+
+.stipend-section {
+    background-color: #000 !important;
+}
+
+.trade-benefit-section {
+    background-color: #000 !important;
+}
+
+.game-benefit-section {
+    background-color: #000 !important;
+}
+
+.title-anchor-container {
+    background-color: #000 !important;
+}
+
+.avatar-card-content {
+    background-color: #151515 !important;
+}
+
+.avatar-card-btns {
+    background-color: #222 !important;
+}
+
+.catalog-heading-container {
+    background-color: #000 !important;
+}
+
+.search-bars {
+    background-color: #000 !important;
+}
+
+.topic-carousel {
+    background-color: #000 !important;
+}
+
+.MuiGrid-root {
+    background-color: #000 !important;
+}
+
+.web-blox-css-tss-kqp5ww-background {
+    background-color: #000 !important;
+}
+
+.MuiDrawer-paperAnchorDockedLeft {
+    background-color: #000 !important;
+}
+
+.MuiTabs-flexContainer {
+    background-color: #000 !important;
+}
+
+.web-blox-css-tss-5eu7oz-Paper-root-paper-greenTopBorder {
+    background-color: #000 !important;
+}
+
+.web-blox-css-tss-x4ggpt-Paper-root-paper-orangeTopBorder {
+    background-color: #000 !important;
+}
+
+.d-header {
+    background-color: #000 !important;
+}
+
+.MuiAccordionSummary-gutters {
+    background-color: #000 !important;
+}
+
+.header {
+    background-color: #000 !important;
+}
+
+.section {
+    background-color: #000 !important;
+}
+
+.web-blox-css-mui-1wkwmmc {
+    border: 2px solid #0000;
+    border-radius: 12px;
+    padding: 5px;
+}
+
+.icon-logo {
+    background-image: url(https://d2aact24gtejsg.cloudfront.net/d0nznb%2Fpreview%2F64369715%2Fmain_large.png?response-content-disposition=inline%3Bfilename%3D%22main_large.png%22%3B&response-content-type=image%2Fpng&Expires=1739105082&Signature=gbtteja6~fWXPOljEk84H8unkLkDsFYzoVUyps-ozhiydoQ9bhxirn~kRv1gDUngAQvmSPgQ3scfCag-C92vCU7SIJbMJVL3gQBCRGlPF~2FyW4usSbWp-6i0XQ7c3MU1rn5PmgVJH3ofB4lba0czgenDNySDzXR8BDrA28CrpzEHgR8OZgH-ztpC20zumsLUMtYvGqtyvY6t6rca9kQL29QI4crPGvc~ML8VdRJ2URGBO44Q~AJloQERE3KhoH6yP13FaJ59SkPrThbubHYdrjSiDORVIfceBJjSodF8Mcek-ew0UGz0m-U2fnhgr8awPCnWob3xKXxlRunit02Bg__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ) !important;
+}
+
+.icon-logo-r-95 {
+    display: inline-block;
+    animation: rotate-smooth 2s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+}
+
+@keyframes rotate-smooth {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.btn-common-play-game-lg {
+    display: inline-block;
+    padding: 12px 24px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    background: linear-gradient(45deg, #43b74c, #58b960);
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.btn-common-play-game-lg:active {
+    transform: scale(0.95);
+    box-shadow: 0px 4px 10px rgba(255, 107, 107, 0.3);
+}
+
+.in-game-friend-card {
+    background-color: #000
+}
+
+@keyframes glow {
+    0% {
+        text-shadow: 0px 0px 5px rgba(255, 249, 196, 0.8), 0px 0px 10px rgba(255, 249, 150, 0.6), 0px 0px 15px rgba(255, 230, 120, 0.4);
+    }
+    50% {
+        text-shadow: 0px 0px 7px rgba(255, 255, 200, 1), 0px 0px 12px rgba(255, 255, 170, 0.8), 0px 0px 18px rgba(255, 230, 140, 0.6);
+    }
+    100% {
+        text-shadow: 0px 0px 5px rgba(255, 249, 196, 0.8), 0px 0px 10px rgba(255, 249, 150, 0.6), 0px 0px 15px rgba(255, 230, 120, 0.4);
+    }
+}
+
+.profile-name {
+    font-size: 24px !important;
+    font-weight: bold !important;
+    color: #fff9c4 !important;
+    animation: glow 1.5s infinite alternate !important;
+}
+
+@keyframes blue-glow {
+    0% {
+        filter: drop-shadow(0px 0px 5px rgba(0, 132, 255, 0.8)) drop-shadow(0px 0px 10px rgba(0, 132, 255, 0.6)) drop-shadow(0px 0px 15px rgba(0, 132, 255, 0.4));
+    }
+    50% {
+        filter: drop-shadow(0px 0px 7px rgba(0, 162, 255, 1)) drop-shadow(0px 0px 12px rgba(0, 162, 255, 0.8)) drop-shadow(0px 0px 18px rgba(0, 162, 255, 0.6));
+    }
+    100% {
+        filter: drop-shadow(0px 0px 5px rgba(0, 132, 255, 0.8)) drop-shadow(0px 0px 10px rgba(0, 132, 255, 0.6)) drop-shadow(0px 0px 15px rgba(0, 132, 255, 0.4));
+    }
+}
+
+@keyframes white-glw {
+    0% {
+        filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.8)) drop-shadow(0px 0px 10px rgba(255, 255, 255, 0.6)) drop-shadow(0px 0px 15px rgba(255, 255, 255, 0.4));
+    }
+    50% {
+        filter: drop-shadow(0px 0px 7px rgb(255, 255, 255)) drop-shadow(0px 0px 12px rgba(255, 255, 255, 0.8)) drop-shadow(0px 0px 18px rgba(255, 255, 255, 0.6));
+    }
+    100% {
+        filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.8)) drop-shadow(0px 0px 10px rgba(255, 255, 255, 0.6)) drop-shadow(0px 0px 15px rgba(255, 255, 255, 0.4));
+    }
+}
+
+.profile-verified-badge-icon {
+    width: 24px;
+    /* Adjust size as needed */
+    height: auto;
+    animation: blue-glow 1.5s infinite alternate !important;
+}
+
+.profile-avatar-status {
+    animation: white-glw 1.5s infinite alternate !important;
+}
+
+.profile-avatar-thumb {
+    filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.8));
+}
+
+.game-name {
+    font-size: 24px !important;
+    font-weight: bold !important;
+    color: #fff9c4 !important;
+    animation: glow 1.5s infinite alternate !important;
+}
