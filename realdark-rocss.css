@@ -152,10 +152,6 @@ ul {
     padding: 5px;
 }
 
-.icon-logo {
-    background-image: url(https://aquamarine-dorthea-8.tiiny.site/d82801b936c26e174c4e782510a72d78-roblox_logo_dark_08292022-2.svg) !important;
-}
-
 .icon-logo-r-95 {
     display: inline-block;
     animation: rotate-smooth 2s cubic-bezier(0.4, 0, 0.2, 1) infinite;
