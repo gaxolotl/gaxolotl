@@ -1,0 +1,52 @@
+[
+  {
+    id: "realdark",
+    name: "Real Dark",
+    url: "https://raw.githubusercontent.com/gaxolotl/gaxolotl/refs/heads/main/realdark-rocss.css",
+    description: "A dark theme for Roblox",
+    mode: "dark", // Specifying this theme should use dark mode
+  },
+  {
+    id: "neonvibes",
+    name: "Neon Vibes",
+    url: "https://raw.githubusercontent.com/someurl/neonvibes.css",
+    description: "Vibrant neon colors on dark background",
+    mode: "dark",
+  },
+  {
+    id: "minimalist",
+    name: "Minimalist",
+    url: "https://raw.githubusercontent.com/someurl/minimalist.css",
+    description: "Clean, simple design with minimal distractions",
+    mode: "light",
+  },
+  {
+    id: "retrogaming",
+    name: "Retro Gaming",
+    url: "https://raw.githubusercontent.com/someurl/retrogaming.css",
+    description: "Pixel art style with classic gaming colors",
+    mode: "dark",
+  },
+  {
+    id: "cyberpunk",
+    name: "Cyberpunk",
+    url: "https://raw.githubusercontent.com/someurl/cyberpunk.css",
+    description: "Futuristic design with bright accents",
+    mode: "dark",
+  },
+  {
+    id: "oceanblue",
+    name: "Ocean Blue",
+    url: "https://raw.githubusercontent.com/someurl/oceanblue.css",
+    description: "Calming blue tones inspired by the ocean",
+    mode: "light",
+  },
+  // Add more themes here as needed, for example:
+  // {
+  //   id: 'light',
+  //   name: 'Light Mode',
+  //   url: 'https://example.com/path/to/light-theme.css',
+  //   description: 'A light theme for Roblox',
+  //   mode: 'light'
+  // }
+];
