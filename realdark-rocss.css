@@ -253,15 +253,30 @@ ul {
     animation: glow 1.5s infinite alternate !important;
 }
 
+h1 {
+    font-size: 24px !important;
+    font-weight: bold !important;
+    color: #fff9c4 !important;
+    animation: glow 1.5s infinite alternate !important;
+}
+
 .shopping-cart-buy-button {
-    display: inline-block;
-    padding: 12px 24px;
-    font-size: 16px;
-    font-weight: bold;
-    color: white;
     background: linear-gradient(45deg, #43b74c, #58b960);
-    border: none;
+}
+
+.btn-container {
+    background-color: #000 !important;
+}
+
+.item-list-container {
+    background-color: #000 !important;
+}
+
+.cart-number {
+    background: linear-gradient(45deg, #43b74c, #58b960);
     border-radius: 8px;
-    cursor: pointer;
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.btn-secondary-lg:hover {
+    background-color: #222222 !important;
 }
