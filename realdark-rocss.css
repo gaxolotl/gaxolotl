@@ -252,3 +252,16 @@ ul {
     color: #fff9c4 !important;
     animation: glow 1.5s infinite alternate !important;
 }
+
+.shopping-cart-buy-button {
+    display: inline-block;
+    padding: 12px 24px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    background: linear-gradient(45deg, #43b74c, #58b960);
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
